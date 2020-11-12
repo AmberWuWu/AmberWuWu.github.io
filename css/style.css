@@ -206,7 +206,8 @@ h2.article-head {
   }
 }
 .post-date {
-  font-size: 1.2em;
+  margin-top: 20px;
+  font-size: 1em;
   color: #aaa;
 }
 .post-date .arrow-down {
@@ -382,6 +383,10 @@ h2.article-head {
   float: right;
   margin-left: 10px;
   margin-right: 0;
+}
+.markdown-content {
+  font-size: 12px;
+  color: #666;
 }
 .header {
   background: none;
